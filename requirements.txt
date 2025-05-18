@@ -1,0 +1,7 @@
+telethon
+python-dotenv
+Flask
+python-telegram-bot
+schedule
+PyGithub
+python-binance

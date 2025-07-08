@@ -1,0 +1,10 @@
+pandas
+psycopg2-binary
+python-binance
+python-decouple
+Flask
+numpy
+scipy
+scikit-learn
+gunicorn
+waitress
